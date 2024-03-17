@@ -1,0 +1,7 @@
+cam check [camera_led_coupler-initiation test]
+cam check [camera_led_coupler-initiation test]
+cam check [camera_led_coupler-initiation test]
+cam check [camera_led_coupler-initiation test]
+cam check [camera_led_coupler-initiation test]
+cam check [camera_led_coupler-initiation test]
+cam check [camera_led_coupler-initiation test]

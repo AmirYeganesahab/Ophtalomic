@@ -1,0 +1,7 @@
+version: 1.0
+animation_number: 0
+animation_speed: 14
+intensity: 100
+trigger_delay: 1
+led_delay: 0
+ledboard_timeout: 0.05

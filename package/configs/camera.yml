@@ -1,0 +1,9 @@
+version: 1.0
+scale_percent: 50
+width: 724
+height: 1280
+pixel2mm: 0.0048
+distance: 1000
+focal_length: 39.2
+exposure_time: 15000
+trigger_source: hardware
